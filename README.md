@@ -9,6 +9,5 @@ Olá sou Evanderson, Estou comerçando minha caminhada no mundo da programação
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AntEvanderson)
 
 
-#Habilidades
 
-Desafios proposto pela Bootcamp DIO.me
+Desafios propostos pela Bootcamp DIO.me
